@@ -1,0 +1,58 @@
+.sidebar{
+  
+    flex: 0.35;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+.sidebar__header{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding:17px 10px;
+    border-right: 1px solid lightgray;
+}
+.sidebar__headerRigh{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    min-width: 10vw;
+}
+.sidebar__search{
+   border-top: 2px solid #dadbd3;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    padding: 10px;
+    height: 39px;
+}
+.sidebar__searchcontainer{
+    display: flex;
+    background-color:#dadbd3;
+width:100%;
+align-items: center;
+justify-content: space-between;
+align-content: center;
+height: 5vh;
+}
+.sidebar__searchcontainer>input{
+display: flex;
+border: none;
+background-color: #dadbd3;
+ width: 100%;
+ height: 5vh; 
+}
+.sidebar__searchcontainer>.searchicone{
+
+display: flex;
+color: gray;
+justify-content: left;
+}
+.sidebar__chats{
+background-color: white;
+flex: 1;
+overflow: scroll;
+
+}
