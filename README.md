@@ -1,3 +1,9 @@
+<img width="960" alt="Screenshot 2023-05-22 234759" src="https://github.com/grouciyacine/Telegrame-clone/assets/107037694/2e7abc20-3aaf-408b-803b-d812c77f9dbf">
+<br/>
+<br/>
+<br/>
+<img width="960" alt="Screenshot 2023-05-22 234739" src="https://github.com/grouciyacine/Telegrame-clone/assets/107037694/23b67533-c4f5-4b3e-a9e7-47a72f9a55fc">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
